@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9o1Nua+r+UdnPaUS/q9iy4JQYOmR1vLI/SxpOBJQiu2Ma0Iu8my6IZ6ixT0f/N7FpkjkrpjTdFIlRPdzwydFw==",
+  "dgSpecHash": "Smq4/UsFBN0NtbDkDH4wE/BEqXXKsgxMGCV9O8WjdbPVolLts51uMwANUwlmfw9iBueWdmFvBQrBfdVdJda11A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+  "projectFilePath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

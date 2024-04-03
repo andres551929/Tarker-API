@@ -3271,19 +3271,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\an.samboni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+      "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
       "projectName": "Tarker.Booking.Application",
-      "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\obj\\",
+      "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+      "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3297,8 +3297,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+            "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+              "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
             }
           }
         }
@@ -3338,7 +3338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
       }
     }
   }

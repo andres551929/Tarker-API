@@ -10,3 +10,15 @@ C:\Users\andre\API Tarker\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net
 C:\Users\andre\API Tarker\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net6.0\refint\Tarker.Booking.Common.dll
 C:\Users\andre\API Tarker\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.pdb
 C:\Users\andre\API Tarker\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net6.0\ref\Tarker.Booking.Common.dll
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\bin\Debug\net6.0\Tarker.Booking.Common.deps.json
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\bin\Debug\net6.0\Tarker.Booking.Common.dll
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\bin\Debug\net6.0\Tarker.Booking.Common.pdb
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.csproj.AssemblyReference.cache
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.AssemblyInfo.cs
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.dll
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\refint\Tarker.Booking.Common.dll
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\Tarker.Booking.Common.pdb
+C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Common\obj\Debug\net6.0\ref\Tarker.Booking.Common.dll

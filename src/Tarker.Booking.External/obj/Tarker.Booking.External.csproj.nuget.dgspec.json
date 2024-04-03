@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {}
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
         "projectName": "Tarker.Booking.External",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     }
