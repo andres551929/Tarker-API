@@ -12,7 +12,7 @@ namespace Tarker.Booking.Persistence.Configuration
     {
         public BookingConfiguration(EntityTypeBuilder<BookingEntity> entityBuilder)
         {
-            entityBuilder.HasKey(x => x.CustomerId);
+            entityBuilder.HasKey(x => x.BookingId);
             entityBuilder.Property(x => x.RegisterDate).IsRequired();
             entityBuilder.Property(x => x.Code).IsRequired();
             entityBuilder.Property(x => x.Type).IsRequired();

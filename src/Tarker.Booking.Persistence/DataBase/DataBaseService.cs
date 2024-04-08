@@ -16,7 +16,7 @@ namespace Tarker.Booking.Persistence.DataBase
 
         public DbSet<UserEntity> User { get; set; }
         public DbSet<CustomerEntity> Customer { get; set; }
-        public DbSet<BookingEntity> Entity { get; set; }
+        public DbSet<BookingEntity> Booking { get; set; }
 
         public async Task<bool> SaveAsync()
         {

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nB8RQ+HEq5XXOrqPffweTXE0ghPlqDRKY+aD5AxsfjjjI5+ZUJRu9j9WKm2k/R99NzzJkIIjludfqZQm9jjRyg==",
+  "dgSpecHash": "9g0R5aLcxcVj5XLC4TpuSrOk6PxIKHIpFxnSEgMDdvWVd0oUN/WDwHQ4wYtspnqgfD6pZkZn2yGn3KPFX9LjLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+  "projectFilePath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\an.samboni\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\an.samboni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\an.samboni\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\an.samboni\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

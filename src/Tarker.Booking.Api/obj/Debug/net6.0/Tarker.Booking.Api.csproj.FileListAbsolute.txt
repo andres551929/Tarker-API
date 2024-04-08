@@ -184,3 +184,4 @@ C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Api\obj\Debug\net6.
 C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Api\obj\Debug\net6.0\Tarker.Booking.Api.pdb
 C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Api\obj\Debug\net6.0\Tarker.Booking.Api.genruntimeconfig.cache
 C:\Users\an.samboni\API Tarker\Tarker-API\src\Tarker.Booking.Api\obj\Debug\net6.0\ref\Tarker.Booking.Api.dll
+C:\Users\andre\API Tarker\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net6.0\Tarker.Booking.Api.MvcApplicationPartsAssemblyInfo.cs

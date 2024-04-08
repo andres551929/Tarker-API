@@ -9,7 +9,7 @@ namespace Tarker.Booking.Application.DataBase
     {
         DbSet<UserEntity> User { get; set; }
         DbSet<CustomerEntity> Customer { get; set; }
-        DbSet<BookingEntity> Entity { get; set; }
+        DbSet<BookingEntity> Booking { get; set; }
 
         Task<bool> SaveAsync();
     }
