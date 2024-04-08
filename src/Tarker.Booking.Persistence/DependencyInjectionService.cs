@@ -12,7 +12,8 @@ namespace Tarker.Booking.Persistence
     {
         public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddDbContext<DataBaseService>(options => options.UseSqlServer(configuration["SQLConnectionString"]));
+            //services.AddDbContext<DataBaseService>(options => options.UseSqlServer(configuration["SQLConnectionString"]));
+            services.AddDbContext<DataBaseService>(options => options.UseSqlServer(configuration["SQLConnectionString:ConnectionString"]));
 
             services.AddScoped<IDataBaseService, DataBaseService>();
             return services;
