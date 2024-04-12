@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {}
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
         "projectName": "Tarker.Booking.Api",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Api\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,17 +28,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
               },
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj"
               },
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj"
               },
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj"
               }
             }
           }
@@ -83,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
         "projectName": "Tarker.Booking.Application",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +111,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
               }
             }
           }
@@ -160,21 +160,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
         "projectName": "Tarker.Booking.Common",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Common\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -221,21 +221,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
         "projectName": "Tarker.Booking.Domain",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -276,21 +276,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
         "projectName": "Tarker.Booking.External",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.External\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.External\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -341,21 +341,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
+    "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
         "projectName": "Tarker.Booking.Persistence",
-        "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
+        "packagesPath": "C:\\Users\\an.samboni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\an.samboni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -369,11 +369,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj"
               },
-              "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\API Tarker\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
+              "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\an.samboni\\API Tarker\\Tarker-API\\src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj"
               }
             }
           }
@@ -409,7 +409,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23274.1\\RuntimeIdentifierGraph.json"
         }
       }
     }

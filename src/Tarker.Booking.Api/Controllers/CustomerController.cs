@@ -15,6 +15,7 @@ namespace Tarker.Booking.Api.Controllers
     [ApiController]
     [TypeFilter(typeof(ExceptionManager))]
 
+
     public class CustomerController : ControllerBase
     {
 
